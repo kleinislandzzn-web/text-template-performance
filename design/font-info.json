@@ -1,0 +1,7 @@
+{
+  "originalUIStack": "-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif",
+  "portableUI": "Noto Sans SC variable 100–900 (Handoff Sans)",
+  "license": "SIL Open Font License 1.1; assets/fonts/OFL.txt",
+  "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+  "artworkFonts": "模板文字是原始图片的一部分，已经保留像素，不依赖本机安装模板字体。原始图片未提供可编辑文字图层或相应字体源文件。"
+}
